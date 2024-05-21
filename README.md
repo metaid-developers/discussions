@@ -1,2 +1,2 @@
 # discussions
-The discussions of MetaID Protocols
+This repo is for discussion of MetaID, decentralized ID & data protocol for UTXO-based networks.
